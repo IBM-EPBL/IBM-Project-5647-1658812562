@@ -1,5 +1,3 @@
-ASSIGNMENT 4 - KRITHYHA R
-
 1.Import requried library
 
 import pandas as pd 
